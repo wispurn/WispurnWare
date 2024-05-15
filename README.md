@@ -9,3 +9,6 @@
 * Z: Enable/Disable Anti Lock
 * P: Enable/Disable Aim Viewer
 * T: Toggles Anti Viewer on the selected player. (closest player to cursor)
+
+# Note
+* This is open source, do whatever you want with it.
